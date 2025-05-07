@@ -1,0 +1,20 @@
+.about-image {
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#about .row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#about .col-md-6 {
+    text-align: center;
+}
+
+#about ul {
+    list-style-type: none;
+    padding: 0;
+}
